@@ -1,1 +1,1 @@
-These applications interface with the European Nucleotide Archive to pull sequencing data given specific search queries. App.py provides a robust web-interface, whereas reader.py provides commandline level searches.
+These applications interface with the European Nucleotide Archive to pull sequencing data given specific search queries. App.py provides a robust web-interface, whereas reader.py provides searching through the command line.
